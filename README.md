@@ -56,6 +56,7 @@ Aplikacje napisane we frameworku Meteor na egzamin z przedmiotu „Techniki Int
 1. Turzyński Michał
 1. Wardzińska Justyna
 1. Zielke Adam
+1. Mariusz Miszczykowski [https://github.com/miszczyk/meteor-fbapp](http://projekt.meteor.com)
 
 [mb]:http://kalendarz.meteor.com/
 
