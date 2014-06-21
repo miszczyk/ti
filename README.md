@@ -59,7 +59,7 @@ Ostateczny termin pull requests z danymi upływa **24.08.2014**.
 1. Massalska Emilia
 1. Mazur Michał
 1. Michalski Mateusz
-1. Miszczykowski Mariusz
+1. [Miszczykowski Mariusz](https://github.com/miszczyk/meteor-fbapp).<br>[Tablica-ala-FB](http://projekt.meteor.com/)    
 1. Mroczkowski Jacek
 1. Pająkowski Adrian
 1. Paprocki Adam
